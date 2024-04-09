@@ -48,6 +48,10 @@ header {
     background-color: #1abc9c;
 }
 
+.avatar-img {
+    width: 200px;
+}
+
 .about {
     background-color: #1abc9c;
 }
